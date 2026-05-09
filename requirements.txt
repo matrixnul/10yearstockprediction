@@ -2,6 +2,5 @@ streamlit
 
 yfinance
 
-panda
-s
+pandas
 requests
